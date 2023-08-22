@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Last update: 22/06/2023"
+git remote add origin https://github.com/karthikeya-ms/CV_Siva-Karthikeya-M
+git remote set-url origin git@github.com:karthikeya-ms/CV_Siva-Karthikeya-M
+git push -u origin master
